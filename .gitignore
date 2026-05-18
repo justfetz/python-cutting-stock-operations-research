@@ -1,10 +1,8 @@
+java/out/
+python/__pycache__/
+python/solver/__pycache__/
+ortools-python/__pycache__/
+ortools-python/solver/__pycache__/
 *.pyc
-*__pycache__/
-*db.sqlite3
-*.log
-*.pot
-*.pyc
-*.env
-*.venv
-*.egg-info/
-*.eggs/
+python/pytest-cache-files-*/
+ortools-python/pytest-cache-files-*/

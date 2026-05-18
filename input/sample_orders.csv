@@ -1,0 +1,5 @@
+stock_width,order_id,piece_width,quantity
+100,O1,45,2
+100,O2,36,3
+100,O3,31,2
+100,O4,14,4
